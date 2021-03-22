@@ -1,4 +1,5 @@
 ### Vehicle-Detection-on-CCTV
+For viewing the notebook click on the link : https://nbviewer.jupyter.org/github/gouravsinha1405/Vehicle-Detection-on-CCTV/blob/main/Part%204%20-%20Vehicle%20Detection%20in%20videos.ipynb
 - It is not always mandatory to use yolov3 to build an object detector.
 - By using cv techniques only one can very much build an object detection algorithm that is cheap and effective over static cameras installed on highways.
 - You can improve this framework to detect count of vehicles and can also analyse the pattern during rush hours.
