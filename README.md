@@ -4,3 +4,4 @@
 - You can improve this framework to detect count of vehicles and can also analyse the pattern during rush hours.
 - The first approach works well with static cameras installed on highways.
 - The second approach using car.xml is less accurate when camera is non static. In that case we should rather use YOLO or Faster RCNN
+- In first approach I used background suptraction then i create contours on vehicles.After thresholding and putting constraint n contour area I could locate the vehicles in the video. Next step was to put rectangular boxes over the vehicles.
